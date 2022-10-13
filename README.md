@@ -136,12 +136,33 @@ linki będą podzielone na kategorie i będą w tym pliku.
 
     [link WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons)
 
+## privilege escalation
+
+* Strona zawiera sporo metod na eskalacje uprawnień (trochę stara, ale może się to komuś przyda)
+
+    [link g0tmi1k](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
+
 ## OSINT
 
 * Strona zawierająca dużo materiałów w tym książki na temat OSINT-u 
     
     [Link osintme.com](https://www.osintme.com/)
 
+* Aplikacja pozwalająca pobierać pliki z konkretnych domen, zindeksowane przez wyszukiwarki, a następnie analizować je pod kontem metadanych
+
+    [link FOCA](https://github.com/ElevenPaths/FOCA)
+
+## Crypto
+
+* [do poprawy] Strona zawierająca podstawowe informacje na temat kryptografii
+
+    [link charcharbinks](https://charcharbinks.com/post/ctf_crypto_for_beginners/)
+
+## Persistence
+
+* różne metody persystencji (pozostawania niewykrytym w systemie)
+
+    [link persistence](https://persistence-info.github.io/?fbclid=IwAR3faDl7QR7k3e7pMcBztDPE3MpU8AZgwAnzY5LnSpByEjQobF6P0L2PpDA)
 
 ## Ciekawe
 
@@ -151,6 +172,12 @@ linki będą podzielone na kategorie i będą w tym pliku.
 
     [link badssl.com](https://badssl.com/)
 
+* crt.sh
+
+    Narzędzie do sprawdzania certyfikatów kiedy i kto je wydał.
+
+    [link crt.sh](https://crt.sh/)
+
 ### Mindset
 
 * Defenders think in lists. Attackers think in graphs. As long as this is true, attackers win.
@@ -159,8 +186,28 @@ linki będą podzielone na kategorie i będą w tym pliku.
 
 ### Kursy
 
-* Roppers
+* CTF i podstawy
+    + Roppers
 
-    [link github](https://github.com/hoppersroppers)
+        [link github](https://github.com/hoppersroppers)
 
-    [link kurs](https://www.roppers.org/)
+        [link kurs](https://www.roppers.org/)
+
+    + portswigger
+
+        [link laby i materiały](https://portswigger.net/web-security)
+
+* Crypto
+    + cryptohack
+
+        [link cryptohack.org](https://cryptohack.org/)
+
+* Threat inteligence
+    + ATT&CK kurs
+
+        [link kurs](https://attack.mitre.org/resources/training/cti/)
+
+* Threat hunting
+    + activecountermeasures
+
+        [link](https://www.activecountermeasures.com/cyber-threat-hunting-training-course/)
