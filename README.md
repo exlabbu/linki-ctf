@@ -4,6 +4,15 @@ Tu planuje zamieszczać/gromadzić użteczne linki dla naszego koła
 
 linki będą podzielone na kategorie i będą w tym pliku.
 
+## **Spis treści:**
+1. [Podstawy](#podstawy)
+2. [Książki](#książki)
+3. [Privilege escalation](#privilege-escalation)
+4. [OSINT](#osint)
+5. [Crypto](#crypto)
+6. [Persistence](#persistence)
+7. [Inne narzędzia](#inne-narzędzia)
+8. [Nieskategoryzowane](#nieskategoryzowane)
 
 
 ## **Podstawy**
