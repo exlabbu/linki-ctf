@@ -4,6 +4,17 @@ Tu planuje zamieszczać/gromadzić użteczne linki dla naszego koła
 
 linki będą podzielone na kategorie i będą w tym pliku.
 
+## **Spis treści:**
+1. [Podstawy](#podstawy)
+2. [Książki](#książki)
+3. [Privilege escalation](#privilege-escalation)
+4. [OSINT](#osint)
+5. [Crypto](#crypto)
+6. [Persistence](#persistence)
+7. [Inne narzędzia](#inne-narzędzia)
+8. [Nieskategoryzowane](#nieskategoryzowane)
+
+
 ## **Podstawy**
 
 * ### ***OWASP TOP 10***
@@ -118,32 +129,6 @@ linki będą podzielone na kategorie i będą w tym pliku.
 
     [link github.com](https://github.com/opsdisk/the_cyber_plumbers_handbook)
 
-## **Inne narzędzia (jestem słaby w kategoryzowaniu tego więc chętnie przyjmę inną nazwę)**
-
-* ### ***Snovvcrash.rocks***
-
-    Zawiera duże ilości linków do innych materiałów na temat konkretnych zagadnień z pentesingu
-
-    [link snovvcrash.rocks](https://ppn.snovvcrash.rocks/)
-
-* ### ***Thehacker.recipes***
-
-    Zawiera zagadadnienia z Active directory i Web Services. Możlie że zostanie rozszerzony o kolejne rodziały
-
-    [link thehacker.recipes](https://www.thehacker.recipes/)
-
-* ### ***Hacktricks.xyz***
-
-    Typowy command book do testów penetracyjnych
-
-    [link hacktricks.xyz](https://book.hacktricks.xyz/)
-
-* ### ***WebHackersWeapons***
-
-    Duża ilość narzędzi do pentestingu, rozszerzeń do przeglądarek i rozszerzeń do burpsuita
-
-    [link github.com](https://github.com/hahwul/WebHackersWeapons)
-
 ## **Privilege escalation**
 
 * ### ***Basic linux privilege escalation***
@@ -182,7 +167,7 @@ linki będą podzielone na kategorie i będą w tym pliku.
 
     [link github.io](https://persistence-info.github.io/?fbclid=IwAR3faDl7QR7k3e7pMcBztDPE3MpU8AZgwAnzY5LnSpByEjQobF6P0L2PpDA)
 
-## **Ciekawe**
+## **Inne narzędzia**
 
 * ### ***BadSSL***
 
@@ -195,6 +180,32 @@ linki będą podzielone na kategorie i będą w tym pliku.
     Narzędzie do sprawdzania certyfikatów kiedy i kto je wydał.
 
     [link crt.sh](https://crt.sh/)
+
+* ### ***WebHackersWeapons***
+
+    Duża ilość narzędzi do pentestingu, rozszerzeń do przeglądarek i rozszerzeń do burpsuita
+
+    [link github.com](https://github.com/hahwul/WebHackersWeapons)
+
+## **Nieskategoryzowane**
+
+* ### ***Snovvcrash.rocks***
+
+    Zawiera duże ilości linków do innych materiałów na temat konkretnych zagadnień z pentesingu
+
+    [link snovvcrash.rocks](https://ppn.snovvcrash.rocks/)
+
+* ### ***Thehacker.recipes***
+
+    Zawiera zagadadnienia z Active directory i Web Services. Możlie że zostanie rozszerzony o kolejne rodziały
+
+    [link thehacker.recipes](https://www.thehacker.recipes/)
+
+* ### ***Hacktricks.xyz***
+
+    Typowy command book do testów penetracyjnych
+
+    [link hacktricks.xyz](https://book.hacktricks.xyz/)
 
 ### **Mindset**
 
